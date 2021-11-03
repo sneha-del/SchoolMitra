@@ -18,7 +18,7 @@ const Admin = () => {
               <span className="icon-bar" />
               <span className="icon-bar" />
             </button>
-            <Link to="/" className="navbar-brand">
+            <Link to="/SchoolMitra" className="navbar-brand">
               School<span style={{ color: "orange" }}>Mitra</span>
             </Link>
           </div>
@@ -69,7 +69,7 @@ const Admin = () => {
           <div className="sidebar-collapse">
             <ul className="nav" id="main-menu">
               <li>
-                <Link to="/">Admin Section</Link>
+                <Link to="/SchoolMitra">Admin Section</Link>
               </li>
               <li>
                 <Link to="/add-features">Add Features</Link>
@@ -96,7 +96,6 @@ const Admin = () => {
                       <label>Enter Date</label>
 
                       <input className="form-control"></input>
-                      
                     </div>
                     <div className="form-group">
                       <label>Add Title</label>
