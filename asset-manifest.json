@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SchoolMitra/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/SchoolMitra/static/js/main.3651d230.chunk.js",
+    "main.js.map": "/SchoolMitra/static/js/main.3651d230.chunk.js.map",
+    "runtime-main.js": "/SchoolMitra/static/js/runtime-main.3ac4e15b.js",
+    "runtime-main.js.map": "/SchoolMitra/static/js/runtime-main.3ac4e15b.js.map",
+    "static/js/2.a32028ab.chunk.js": "/SchoolMitra/static/js/2.a32028ab.chunk.js",
+    "static/js/2.a32028ab.chunk.js.map": "/SchoolMitra/static/js/2.a32028ab.chunk.js.map",
+    "static/js/3.90f0da45.chunk.js": "/SchoolMitra/static/js/3.90f0da45.chunk.js",
+    "static/js/3.90f0da45.chunk.js.map": "/SchoolMitra/static/js/3.90f0da45.chunk.js.map",
+    "index.html": "/SchoolMitra/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/SchoolMitra/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.a32028ab.chunk.js.LICENSE.txt": "/SchoolMitra/static/js/2.a32028ab.chunk.js.LICENSE.txt",
+    "static/media/tree1.3bdf7a1e.jpg": "/SchoolMitra/static/media/tree1.3bdf7a1e.jpg",
+    "static/media/tree2.70db048c.jpg": "/SchoolMitra/static/media/tree2.70db048c.jpg",
+    "static/media/tree3.e78f8ee3.jpg": "/SchoolMitra/static/media/tree3.e78f8ee3.jpg",
+    "static/media/tree4.037604ce.jpg": "/SchoolMitra/static/media/tree4.037604ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac4e15b.js",
+    "static/js/2.a32028ab.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.3651d230.chunk.js"
+  ]
+}
