@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SchoolMitra/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/SchoolMitra/static/js/main.3651d230.chunk.js",
-    "main.js.map": "/SchoolMitra/static/js/main.3651d230.chunk.js.map",
+    "main.js": "/SchoolMitra/static/js/main.46f8c40e.chunk.js",
+    "main.js.map": "/SchoolMitra/static/js/main.46f8c40e.chunk.js.map",
     "runtime-main.js": "/SchoolMitra/static/js/runtime-main.3ac4e15b.js",
     "runtime-main.js.map": "/SchoolMitra/static/js/runtime-main.3ac4e15b.js.map",
     "static/js/2.a32028ab.chunk.js": "/SchoolMitra/static/js/2.a32028ab.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3ac4e15b.js",
     "static/js/2.a32028ab.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.3651d230.chunk.js"
+    "static/js/main.46f8c40e.chunk.js"
   ]
 }
